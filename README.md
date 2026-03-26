@@ -8,7 +8,7 @@
 - Ahmed Laghdaf 202103337
 - Abdulrahman Alajbar 202111617
 - Jassim Alanbari 202304261
-- Maher Alwajih 
+- Maher Alwajih 202210812
 
 ## Project Overview
 
