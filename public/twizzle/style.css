@@ -885,6 +885,23 @@ p  { color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.6; }
 }
 .widget-text { font-size: .8125rem; color: var(--text-muted); line-height: 1.6; }
 
+.widget-cta {
+  display: inline-flex;
+  align-items: center;
+  margin-top: .9rem;
+  padding: .55rem .95rem;
+  border-radius: var(--radius-pill);
+  background: var(--primary-light);
+  color: var(--primary);
+  font-size: .8125rem;
+  font-weight: 700;
+}
+
+.widget-cta:hover {
+  background: var(--primary);
+  color: #fff;
+}
+
 .suggest-item {
   display: flex;
   align-items: center;
@@ -1113,7 +1130,8 @@ p  { color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.6; }
   flex-direction: column;
   align-items: center;
   gap: .2rem;
-  padding: .5rem 1.5rem;
+  flex: 1;
+  padding: .5rem .75rem;
   color: var(--text-muted);
   font-size: .625rem;
   font-weight: 600;

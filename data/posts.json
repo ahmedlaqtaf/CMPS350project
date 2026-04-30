@@ -1,0 +1,182 @@
+[
+  {
+    "id": "p1",
+    "authorId": "u2",
+    "content": "Spent all Saturday morning detailing the Silverado and I swear it looks better than the day I bought it. Clay bar, compound, ceramic coat, the whole deal. My back is destroyed but every time I walk past the driveway I just stand there staring at it like an idiot. My wife thinks I have a problem. She might be right honestly.",
+    "likes": [
+      "u1",
+      "u3",
+      "u4"
+    ],
+    "comments": [
+      {
+        "id": "c1",
+        "authorId": "u1",
+        "content": "My husband does the exact same thing lol he will literally go outside at night with a flashlight to look at his car",
+        "createdAt": "2026-04-26T04:45:23.578Z"
+      },
+      {
+        "id": "c2",
+        "authorId": "u4",
+        "content": "Ceramic coat is no joke though. Did you do it yourself or take it somewhere? Been thinking about doing mine",
+        "createdAt": "2026-04-26T05:45:23.579Z"
+      }
+    ],
+    "createdAt": "2026-04-26T03:45:23.579Z"
+  },
+  {
+    "id": "p2",
+    "authorId": "u3",
+    "content": "Just got back from 8 days in Portugal and I am already looking at flights to go back. Lisbon is insane, the food is stupid cheap for how good it is, and the hostels were actually really nice. I spent like $45 a day including everything. Everyone keeps telling me to go to Southeast Asia next but honestly southern Europe might just be my thing. Also the pasteis de nata changed my life, not even kidding.",
+    "likes": [
+      "u1",
+      "u2"
+    ],
+    "comments": [
+      {
+        "id": "c3",
+        "authorId": "u1",
+        "content": "Ok you are really making me want to plan a trip. Was it easy to get around without knowing Portuguese?",
+        "createdAt": "2026-04-26T03:45:23.579Z"
+      }
+    ],
+    "createdAt": "2026-04-25T03:45:23.579Z"
+  },
+  {
+    "id": "p3",
+    "authorId": "u1",
+    "content": "Made my mom's jerk chicken recipe for the kids tonight and they actually ate it without complaining for once. Like clean plates, no bargaining, no hiding food in napkins. I almost cried. My mom used to make this every Friday and the smell of it cooking just takes me right back to being 10 years old in her kitchen. Some recipes just carry love in them, I don't know how else to explain it.",
+    "likes": [
+      "u2",
+      "u3",
+      "u5"
+    ],
+    "comments": [
+      {
+        "id": "c4",
+        "authorId": "u5",
+        "content": "That is so special honey. Family recipes are worth more than gold. I still make my mother's cornbread every single week",
+        "createdAt": "2026-04-25T03:45:23.579Z"
+      },
+      {
+        "id": "c5",
+        "authorId": "u3",
+        "content": "Clean plates from kids??? That is basically a miracle. Your mom's recipe must be something else",
+        "createdAt": "2026-04-25T03:45:23.579Z"
+      }
+    ],
+    "createdAt": "2026-04-24T03:45:23.579Z"
+  },
+  {
+    "id": "p4",
+    "authorId": "u4",
+    "content": "Went to the grocery store yesterday for like 10 things and walked out spending $87. Eighty seven dollars. For basically nothing. Milk, eggs, chicken, some fruit, bread, cheese, and a couple snacks for the kids. That's it. I remember when $87 was a full cart. I'm not even trying to make this political but something is seriously off when a regular family can't do a basic grocery run without it hurting. Anybody else feeling this or is it just me?",
+    "likes": [
+      "u1",
+      "u3",
+      "u5"
+    ],
+    "comments": [],
+    "createdAt": "2026-04-23T03:45:23.579Z"
+  },
+  {
+    "id": "p5",
+    "authorId": "u5",
+    "content": "Pulled my first batch of tomatoes from the garden this morning and let me tell you there is nothing on earth like eating something you grew yourself. They are not perfect looking, a little lumpy, one of them is kind of shaped like a heart. But the taste? The store does not even come close. Harold always said the secret was talking to the plants. I still do it every morning even though he's been gone three years now. I think it works.",
+    "likes": [
+      "u2",
+      "u3"
+    ],
+    "comments": [
+      {
+        "id": "c6",
+        "authorId": "u1",
+        "content": "Betty this made me tear up a little. Harold sounds like he was the sweetest man. And those tomatoes look amazing",
+        "createdAt": "2026-04-23T03:45:23.579Z"
+      }
+    ],
+    "createdAt": "2026-04-22T03:45:23.579Z"
+  },
+  {
+    "id": "p6",
+    "authorId": "u2",
+    "content": "Drove out to the lake with a couple of the guys from work this weekend. No phones, no group chats, no checking emails. Just the truck, a cooler, some fishing rods, and absolutely terrible music from Ray's Bluetooth speaker. Caught nothing. Ate gas station hot dogs for lunch. It was honestly the best weekend I've had in months. Sometimes you just need to unplug and do nothing with good people.",
+    "likes": [
+      "u1",
+      "u3",
+      "u4"
+    ],
+    "comments": [
+      {
+        "id": "c7",
+        "authorId": "u3",
+        "content": "Gas station hot dogs hit different on a road trip and nobody can convince me otherwise",
+        "createdAt": "2026-04-22T03:45:23.579Z"
+      }
+    ],
+    "createdAt": "2026-04-21T03:45:23.579Z"
+  },
+  {
+    "id": "p7",
+    "authorId": "u5",
+    "content": "My granddaughter called me this morning before school just to tell me she drew a picture of us baking cookies together and her teacher put it on the wall. She's 7 and she said \"Grandma you're famous now because you're on the wall at my school.\" I have been smiling about it all day. I don't need much in this life but that phone call was everything.",
+    "likes": [
+      "u1",
+      "u2",
+      "u3"
+    ],
+    "comments": [],
+    "createdAt": "2026-04-20T03:45:23.579Z"
+  },
+  {
+    "id": "p8",
+    "authorId": "u4",
+    "content": "That game last night was absolutely insane. I was ready to turn it off in the third quarter, we were down by 19 and it looked completely over. Then the fourth quarter happened and I lost my mind. My neighbor Dave came running over in his slippers and we were yelling in the driveway at 11pm. His wife came out and told us both to grow up. Dave said no. I respect that. What a comeback though seriously.",
+    "likes": [
+      "u1",
+      "u2",
+      "u3",
+      "u5"
+    ],
+    "comments": [
+      {
+        "id": "c8",
+        "authorId": "u2",
+        "content": "Bro I fell asleep at halftime because I had work early. Woke up to like 40 texts. I am so mad at myself I will never recover from this",
+        "createdAt": "2026-04-19T03:45:23.579Z"
+      }
+    ],
+    "createdAt": "2026-04-18T03:45:23.579Z"
+  },
+  {
+    "id": "p9",
+    "authorId": "u1",
+    "content": "My 5 year old lost his first tooth today and wrote the tooth fairy a note that said \"dear tooth fairy please leave the money but can I also keep my tooth because I worked really hard on it.\" He also drew a picture of himself smiling with the gap. I have never loved a piece of paper more in my entire life. This is going in a frame, I don't even care.",
+    "likes": [
+      "u2",
+      "u4",
+      "u5"
+    ],
+    "comments": [],
+    "createdAt": "2026-04-17T03:45:23.579Z"
+  },
+  {
+    "id": "p10",
+    "authorId": "u3",
+    "content": "Unpopular opinion maybe but the best part of any trip is never the touristy stuff on the checklist. It's always some random moment you didn't plan. Like the old couple in Morocco who invited me to drink tea with them even though we didn't share a single language. Or the street musician in Berlin who played the same song for 20 minutes because I told him I liked it. That stuff stays with you way longer than any landmark.",
+    "likes": [
+      "u1",
+      "u2",
+      "u4"
+    ],
+    "comments": [
+      {
+        "id": "c9",
+        "authorId": "u1",
+        "content": "Yes!! Our best family vacation memory is literally just playing cards with strangers we met at a pool in Mexico. Nothing fancy at all but we still talk about it",
+        "createdAt": "2026-04-17T03:45:23.579Z"
+      }
+    ],
+    "createdAt": "2026-04-16T03:45:23.579Z"
+  }
+]

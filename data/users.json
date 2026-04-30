@@ -1,0 +1,89 @@
+[
+  {
+    "id": "u1",
+    "username": "dana_r",
+    "email": "dana@example.com",
+    "password": "password123",
+    "bio": "Working mom, 3 kids, one minivan, zero free time. I run on coffee and Sunday meal prep.",
+    "avatar": "",
+    "following": [
+      "u2",
+      "u3"
+    ],
+    "followers": [
+      "u2",
+      "u4",
+      "u5"
+    ],
+    "joinedAt": "2024-01-15T08:00:00.000Z"
+  },
+  {
+    "id": "u2",
+    "username": "carlos_82",
+    "email": "carlos@example.com",
+    "password": "password123",
+    "bio": "Construction by day, grill master by weekend. Proud Silverado owner. Fantasy football legend in my own mind.",
+    "avatar": "",
+    "following": [
+      "u1",
+      "u3",
+      "u4"
+    ],
+    "followers": [
+      "u1",
+      "u3"
+    ],
+    "joinedAt": "2024-01-20T09:00:00.000Z"
+  },
+  {
+    "id": "u3",
+    "username": "noor.adventures",
+    "email": "noor@example.com",
+    "password": "password123",
+    "bio": "College junior saving every penny for the next flight out. 12 countries so far. Hostel life is the real life.",
+    "avatar": "",
+    "following": [
+      "u1",
+      "u2"
+    ],
+    "followers": [
+      "u1",
+      "u2",
+      "u4"
+    ],
+    "joinedAt": "2024-02-01T10:00:00.000Z"
+  },
+  {
+    "id": "u4",
+    "username": "big_mike_d",
+    "email": "mike@example.com",
+    "password": "password123",
+    "bio": "Dad of 2. I watch too much ESPN and have an opinion about literally everything. Don't get me started on grocery prices.",
+    "avatar": "",
+    "following": [
+      "u1",
+      "u3"
+    ],
+    "followers": [
+      "u2",
+      "u5"
+    ],
+    "joinedAt": "2024-02-10T11:00:00.000Z"
+  },
+  {
+    "id": "u5",
+    "username": "grandma_betty",
+    "email": "betty@example.com",
+    "password": "password123",
+    "bio": "Retired teacher. My garden and my grandkids keep me young. If I bake it, you better eat it.",
+    "avatar": "",
+    "following": [
+      "u2"
+    ],
+    "followers": [
+      "u1",
+      "u4"
+    ],
+    "joinedAt": "2024-02-15T12:00:00.000Z"
+  }
+]
